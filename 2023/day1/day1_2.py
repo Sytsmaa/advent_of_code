@@ -58,5 +58,3 @@ for line in lines:
 #End for
 
 print(total)
-
-#53268
